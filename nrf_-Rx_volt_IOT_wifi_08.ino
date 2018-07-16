@@ -8,8 +8,8 @@
 /************************* Adafruit.io Setup *********************************/
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "sdmd"
-#define AIO_KEY         "45e3101305c2477dadaf05ef78fdcf0a"
+#define AIO_USERNAME    "....."
+#define AIO_KEY         "................."
 /************ Global State (you don't need to change this!) ******************/
 //uint32_t x=0;
 #define CE D1
