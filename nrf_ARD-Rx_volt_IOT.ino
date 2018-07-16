@@ -8,8 +8,8 @@
 //#define WLAN_SSID       "TRENDnet"
 //#define WLAN_PASS       "73141R55904"
 
-#define WLAN_SSID       "TP-LINK_M5_A69366"
-#define WLAN_PASS       "10085399"
+#define WLAN_SSID       "TP-LINK"
+#define WLAN_PASS       "100000000"
 /************************* Adafruit.io Setup *********************************/
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
